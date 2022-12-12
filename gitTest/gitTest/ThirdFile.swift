@@ -9,7 +9,13 @@ import SwiftUI
 
 struct ThirdFile: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Text("Third Party! 🎸")
+                .font(.title)
+                .padding()
+            Text("team06")
+                .font(.title3)
+        }
     }
 }
 
