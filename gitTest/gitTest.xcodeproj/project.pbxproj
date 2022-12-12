@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EEB5BF7D29476C86003DC1BA /* ForstFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEB5BF7C29476C86003DC1BA /* ForstFile.swift */; };
 		FD93D45E294768D100C90E22 /* gitTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD93D45D294768D100C90E22 /* gitTestApp.swift */; };
 		FD93D460294768D100C90E22 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD93D45F294768D100C90E22 /* ContentView.swift */; };
 		FD93D462294768D200C90E22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD93D461294768D200C90E22 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EEB5BF7C29476C86003DC1BA /* ForstFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForstFile.swift; sourceTree = "<group>"; };
 		FD93D45A294768D100C90E22 /* gitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD93D45D294768D100C90E22 /* gitTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitTestApp.swift; sourceTree = "<group>"; };
 		FD93D45F294768D100C90E22 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				FD93D487294768FE00C90E22 /* FirstFile.swift */,
 				FD93D4892947690600C90E22 /* SecondFile.swift */,
 				FD93D48B2947692300C90E22 /* ThirdFile.swift */,
+				EEB5BF7C29476C86003DC1BA /* ForstFile.swift */,
 				FD93D461294768D200C90E22 /* Assets.xcassets */,
 				FD93D463294768D200C90E22 /* Preview Content */,
 			);
@@ -266,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEB5BF7D29476C86003DC1BA /* ForstFile.swift in Sources */,
 				FD93D48C2947692300C90E22 /* ThirdFile.swift in Sources */,
 				FD93D488294768FE00C90E22 /* FirstFile.swift in Sources */,
 				FD93D460294768D100C90E22 /* ContentView.swift in Sources */,
