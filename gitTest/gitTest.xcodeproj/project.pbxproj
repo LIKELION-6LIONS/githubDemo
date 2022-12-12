@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A5C50F6929476C9100FB2ACB /* ChanghwiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C50F6829476C9100FB2ACB /* ChanghwiView.swift */; };
+		7C07ACDB29476CAC00CE0C02 /* thekoonFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C07ACDA29476CAC00CE0C02 /* thekoonFile.swift */; };
 		FD93D45E294768D100C90E22 /* gitTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD93D45D294768D100C90E22 /* gitTestApp.swift */; };
 		FD93D460294768D100C90E22 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD93D45F294768D100C90E22 /* ContentView.swift */; };
 		FD93D462294768D200C90E22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD93D461294768D200C90E22 /* Assets.xcassets */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		A5C50F6829476C9100FB2ACB /* ChanghwiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChanghwiView.swift; sourceTree = "<group>"; };
+		7C07ACDA29476CAC00CE0C02 /* thekoonFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thekoonFile.swift; sourceTree = "<group>"; };
 		FD93D45A294768D100C90E22 /* gitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD93D45D294768D100C90E22 /* gitTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitTestApp.swift; sourceTree = "<group>"; };
 		FD93D45F294768D100C90E22 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 			children = (
 				FD93D45D294768D100C90E22 /* gitTestApp.swift */,
 				FD93D45F294768D100C90E22 /* ContentView.swift */,
+				7C07ACDA29476CAC00CE0C02 /* thekoonFile.swift */,
 				FD93D487294768FE00C90E22 /* FirstFile.swift */,
 				FD93D4892947690600C90E22 /* SecondFile.swift */,
 				FD93D48B2947692300C90E22 /* ThirdFile.swift */,
@@ -275,6 +278,7 @@
 				FD93D45E294768D100C90E22 /* gitTestApp.swift in Sources */,
 				FD93D48A2947690600C90E22 /* SecondFile.swift in Sources */,
 				A5C50F6929476C9100FB2ACB /* ChanghwiView.swift in Sources */,
+				7C07ACDB29476CAC00CE0C02 /* thekoonFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
